@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.container-fluid{
+	 width: 1200px;
+}
+.row,.row-2,.row-3,.row-4{
+    display: flex;
+	gap:10px
+	
+}
+.row-4{
+    justify-content: center;
+}
